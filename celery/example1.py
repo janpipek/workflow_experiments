@@ -31,7 +31,10 @@ if __name__ == "__main__":
     try:
         # This is the client branch
         logging.debug("Starting the client.")
+
+        # Submit the task (asynchronously).
         result = add.delay(4, 4)
+        logging.debug("Submitted the calculation of 4+4".)
         try:
             result.get(timeout=0.1)
         except TimeoutError:
