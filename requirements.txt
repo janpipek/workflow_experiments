@@ -1,2 +1,7 @@
+# Celery
 celery[redis]
 flower
+
+# Dask distributed
+dask
+distributed

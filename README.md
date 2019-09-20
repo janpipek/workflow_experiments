@@ -21,3 +21,7 @@ pip install -e requirements.txt
 ## Usage
 
 Follow the Makefiles.
+
+## Note
+
+Some of the copies are trivally copied from tutorials, manuals.
