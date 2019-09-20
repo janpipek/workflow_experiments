@@ -5,3 +5,6 @@ flower
 # Dask distributed
 dask
 distributed
+
+# Luigi
+luigi
