@@ -1,4 +1,4 @@
-"""Luigi example that mimicks `../dask_distributed/example1.py`
+"""Simple example computing a sum of negative squares for the range (0, 10).
 
 You can run this example:
 - as a standalone script:

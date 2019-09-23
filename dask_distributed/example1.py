@@ -1,3 +1,4 @@
+"""Simple example computing a sum of negative squares for the range (0, 10)."""
 import logging
 
 from dask.distributed import Client
@@ -7,6 +8,7 @@ logging.basicConfig(level=logging.DEBUG)
 
 def square(x):
         return x ** 2
+
 
 def neg(x):
         return -x
