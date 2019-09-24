@@ -8,3 +8,6 @@ distributed
 
 # Luigi
 luigi
+
+# Joblib
+joblib

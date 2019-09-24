@@ -5,6 +5,7 @@ My personal experiments with various workflow managements / scheduler systems in
 - celery
 - dask distributed
 - luigi
+- joblib
 - airflow (not yet started)
 - spark (not yet started)
 
